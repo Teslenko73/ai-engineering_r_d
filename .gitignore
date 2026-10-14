@@ -1,0 +1,27 @@
+# Pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Środowiska wirtualne
+venv/
+env/
+ENV/
+.venv/
+
+# Pliki środowiskowe (np. z kluczami API)
+.env
+
+# Foldery budowania i dystrybucji
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooki
+.ipynb_checkpoints/
+
+# Konfiguracje IDE
+.vscode/
+.idea/
