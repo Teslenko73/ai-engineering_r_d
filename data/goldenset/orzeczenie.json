@@ -1,0 +1,28 @@
+{
+  "document": {
+    "document_type": "postanowienie",
+    "jurisdiction": "PL",
+    "court": "Sąd Rejonowy w Siedlcach",
+    "division": "II Wydział Karny",
+    "docket_number": "II Kp 127/15",
+    "decision_date": "2015-08-05",
+    "hearing_date": "2015-08-05",
+    "language": "pl",
+    "formula": null,
+    "panel": {
+      "presiding": "SSR Daniel Kędzia"
+    },
+    "court_clerk": "staż. Agnieszka Księżopolska",
+    "prosecutor_at_hearing": null,
+    "defendant": "T. L.",
+    "charge": "art. 263 § 2 kk",
+    "proceeding_type": "rozpoznanie wniosku o przepadek dowodów rzeczowych",
+    "appellant": "Prokurator Rejonowy w S. (...)",
+    "appealed_judgment": {
+      "court": "Prokuratura Rejonowa w S. (...)",
+      "date": "2014-11-25",
+      "docket_number": "1 Ds 1391/14"
+    },
+    "final_basis": "art. 100 kk (a contrario)"
+  }
+}

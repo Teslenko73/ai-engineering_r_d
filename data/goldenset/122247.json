@@ -1,0 +1,28 @@
+{
+  "document": {
+    "document_type": "opinion",
+    "jurisdiction": "US_federal",
+    "court": "Supreme Court of the United States",
+    "division": null,
+    "docket_number": "01-704",
+    "decision_date": "2002-12-10",
+    "hearing_date": "2002-10-16",
+    "language": "en",
+    "formula": null,
+    "panel": {
+      "presiding": "Thomas, J."
+    },
+    "court_clerk": null,
+    "prosecutor_at_hearing": "Deputy Solicitor General Kneedler",
+    "defendant": "Thomas Lamar Bean",
+    "charge": "18 U.S.C. § 922(g)(1) (felon-in-possession)",
+    "proceeding_type": "certiorari / judicial review",
+    "appellant": "Thomas Lamar Bean (Respondent)",
+    "appealed_judgment": {
+      "court": "United States Court of Appeals for the Fifth Circuit",
+      "date": "2001",
+      "docket_number": "253 F.3d 234"
+    },
+    "final_basis": "18 U.S.C. § 925(c)"
+  }
+}

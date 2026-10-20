@@ -1,0 +1,28 @@
+{
+  "document": {
+    "document_type": "wyrok",
+    "jurisdiction": "PL",
+    "court": "Sąd Okręgowy w Rzeszowie",
+    "division": "II Wydział Karny",
+    "docket_number": "II Ka 755/14",
+    "decision_date": "2015-03-24",
+    "hearing_date": "2015-03-24",
+    "language": "pl",
+    "formula": "W IMIENIU RZECZYPOSPOLITEJ POLSKIEJ",
+    "panel": {
+      "presiding": "SSO Marcin Świerk"
+    },
+    "court_clerk": "Beata Szczotkowska",
+    "prosecutor_at_hearing": "Piotr Siekierski, Prokurator Prokuratury Apelacyjnej w Rzeszowie",
+    "defendant": "T. L.",
+    "charge": "art. 263 § 2 kk",
+    "proceeding_type": "apelacja",
+    "appellant": "obrońca oskarżonego",
+    "appealed_judgment": {
+      "court": "Sąd Rejonowy w Rzeszowie (XIV Zamiejscowy Wydział Karny z/s w Strzyżowie)",
+      "date": "2014-09-05",
+      "docket_number": "XIV K 379/13"
+    },
+    "final_basis": "art. 437 § 2 kpk"
+  }
+}
