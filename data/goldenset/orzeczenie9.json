@@ -1,0 +1,28 @@
+{
+  "document": {
+    "document_type": "wyrok odwoławczy",
+    "language": "pl",
+    "court": "Sąd Okręgowy w Częstochowie",
+    "division": "VII Wydział Karny Odwoławczy",
+    "docket_number": "VII Ka 152/16",
+    "decision_date": "2016-04-01",
+    "presiding_judge": "Rafał Olszewski",
+    "applicant": "obrońca oskarżonego",
+    "subject_matter": "rozpoznanie apelacji obrońcy od wyroku Sądu Rejonowego w Zawierciu w przedmiocie przestępstwa z art. 178a § 1 kk",
+    "participants": {
+      "court_clerk": "Aleksandra Błachowicz - Dróżdż",
+      "prosecutor": "Zbigniew Wytrych"
+    },
+    "related_case": {
+      "docket_number": "II K 1445/14",
+      "authority": "Sąd Rejonowy w Zawierciu"
+    },
+    "operative_part": {
+      "decision": "zmienić zaskarżony wyrok m.in. poprzez obniżenie kary pozbawienia wolności do 6 miesięcy, obniżenie zakazu prowadzenia pojazdów mechanicznych do 2 lat, zaliczenie okresu zatrzymania prawa jazdy oraz utrzymanie wyroku w pozostałej części w mocy",
+      "legal_basis": [
+        "art. 178a § 1 kk",
+        "art. 63 § 4 k.k."
+      ]
+    }
+  }
+}

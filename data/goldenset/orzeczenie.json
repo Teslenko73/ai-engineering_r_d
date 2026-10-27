@@ -1,28 +1,28 @@
 {
   "document": {
     "document_type": "postanowienie",
-    "jurisdiction": "PL",
+    "language": "pl",
     "court": "Sąd Rejonowy w Siedlcach",
     "division": "II Wydział Karny",
     "docket_number": "II Kp 127/15",
     "decision_date": "2015-08-05",
-    "hearing_date": "2015-08-05",
-    "language": "pl",
-    "formula": null,
-    "panel": {
-      "presiding": "SSR Daniel Kędzia"
+    "presiding_judge": "SSR Daniel Kędzia",
+    "applicant": "Prokurator Rejonowy w Siedlcach",
+    "subject_matter": "wniosek o orzeczenie przepadku dowodów rzeczowych tytułem środka zabezpieczającego",
+    "participants": {
+      "court_clerk": "staż. Agnieszka Księżopolska",
+      "prosecutor": null
     },
-    "court_clerk": "staż. Agnieszka Księżopolska",
-    "prosecutor_at_hearing": null,
-    "defendant": "T. L.",
-    "charge": "art. 263 § 2 kk",
-    "proceeding_type": "rozpoznanie wniosku o przepadek dowodów rzeczowych",
-    "appellant": "Prokurator Rejonowy w S. (...)",
-    "appealed_judgment": {
-      "court": "Prokuratura Rejonowa w S. (...)",
-      "date": "2014-11-25",
-      "docket_number": "1 Ds 1391/14"
+    "related_case": {
+      "docket_number": "1 Ds 1391/14",
+      "authority": "Prokuratura Rejonowa w Siedlcach"
     },
-    "final_basis": "art. 100 kk (a contrario)"
+    "operative_part": {
+      "decision": "nie uwzględnić wniosku o przepadek dowodów rzeczowych",
+      "legal_basis": [
+        "art. 100 kk (a contrario)",
+        "art. 98 § 2 kpk"
+      ]
+    }
   }
 }

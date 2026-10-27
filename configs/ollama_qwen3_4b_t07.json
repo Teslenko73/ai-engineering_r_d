@@ -1,0 +1,12 @@
+{
+  "provider": "ollama",
+  "model_name": "qwen3:4b",
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "max_tokens": 1024,
+  "timeout_s": 300,
+  "num_ctx": 8192,
+  "enable_thinking": false,
+  "structured_output": true
+}

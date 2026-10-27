@@ -1,0 +1,28 @@
+{
+  "document": {
+    "document_type": "uzasadnienie",
+    "language": "pl",
+    "court": "Sąd Okręgowy w Częstochowie",
+    "division": "VII Wydział Karny Odwoławczy",
+    "docket_number": "VII Ka 152/16",
+    "decision_date": "2016-04-01",
+    "presiding_judge": null,
+    "applicant": "obrońca oskarżonego",
+    "subject_matter": "uzasadnienie wyroku sądu odwoławczego w przedmiocie kontroli instancyjnej wyroku dotyczącego zarzutu kierowania pojazdem w stanie nietrzeźwości",
+    "participants": {
+      "court_clerk": null,
+      "prosecutor": null
+    },
+    "related_case": {
+      "docket_number": "II K 1445/14",
+      "authority": "Sąd Rejonowy w Zawierciu"
+    },
+    "operative_part": {
+      "decision": "oddalenie zarzutów apelacji co do winy oraz zmiana wyroku w zakresie obniżenia kary pozbawienia wolności do 6 miesięcy i zakazu prowadzenia pojazdów do 2 lat",
+      "legal_basis": [
+        "art. 178a § 1 k.k.",
+        "art. 437 § 1 i § 2 k.p.k."
+      ]
+    }
+  }
+}

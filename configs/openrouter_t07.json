@@ -1,0 +1,10 @@
+{
+  "provider": "openrouter",
+  "model_name": "z-ai/glm-5.2",
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_tokens": 1500,
+  "timeout_s": 120,
+  "max_retries": 2,
+  "structured_output": true
+}

@@ -1,0 +1,10 @@
+# --- wymagane ---
+pydantic>=2.5
+pypdf>=4.0
+openai>=1.40        # klient OpenRouter (API zgodne z OpenAI)
+rapidfuzz>=3.0      # opcjonalnie: lepsze porównanie tekstów (bez niego działa difflib)
+
+# --- tylko dla providera "local" (transformers); nie jest potrzebne dla OpenRouter i Ollamy ---
+# torch
+# transformers>=4.51
+# accelerate

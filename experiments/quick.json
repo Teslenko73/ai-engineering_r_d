@@ -1,0 +1,9 @@
+{
+  "name": "quick",
+  "description": "Szybki test: 1 konfiguracja zdalna, prompt v2, tylko 2 pliki z golden setu.",
+  "scope": "golden",
+  "limit": 2,
+  "configs": ["openrouter_t0"],
+  "prompts": ["v2"],
+  "rules": [false]
+}

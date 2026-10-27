@@ -1,28 +1,25 @@
 {
   "document": {
     "document_type": "wyrok",
-    "jurisdiction": "PL",
+    "language": "pl",
     "court": "Sąd Okręgowy w Rzeszowie",
-    "division": "II Wydział Karny",
+    "division": "Wydział II Karny",
     "docket_number": "II Ka 755/14",
     "decision_date": "2015-03-24",
-    "hearing_date": "2015-03-24",
-    "language": "pl",
-    "formula": "W IMIENIU RZECZYPOSPOLITEJ POLSKIEJ",
-    "panel": {
-      "presiding": "SSO Marcin Świerk"
+    "presiding_judge": "SSO Marcin Świerk",
+    "applicant": "obrońca oskarżonego",
+    "subject_matter": "rozpoznanie apelacji obrońcy od wyroku Sądu Rejonowego w Rzeszowie w przedmiocie nielegalnego posiadania broni palnej",
+    "participants": {
+      "court_clerk": "Beata Szczotkowska",
+      "prosecutor": "Piotr Siekierski"
     },
-    "court_clerk": "Beata Szczotkowska",
-    "prosecutor_at_hearing": "Piotr Siekierski, Prokurator Prokuratury Apelacyjnej w Rzeszowie",
-    "defendant": "T. L.",
-    "charge": "art. 263 § 2 kk",
-    "proceeding_type": "apelacja",
-    "appellant": "obrońca oskarżonego",
-    "appealed_judgment": {
-      "court": "Sąd Rejonowy w Rzeszowie (XIV Zamiejscowy Wydział Karny z/s w Strzyżowie)",
-      "date": "2014-09-05",
-      "docket_number": "XIV K 379/13"
+    "related_case": {
+      "docket_number": "XIV K 379/13",
+      "authority": "Sąd Rejonowy w Rzeszowie XIV Zamiejscowy Wydział Karny z/s w Strzyżowie"
     },
-    "final_basis": "art. 437 § 2 kpk"
+    "operative_part": {
+      "decision": "uchyleni zaskarżonego wyroku i przekazanie sprawy Sądowi Rejonowemu w Rzeszowie do ponownego rozpoznania",
+      "legal_basis": []
+    }
   }
 }

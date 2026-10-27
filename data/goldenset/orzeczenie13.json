@@ -1,0 +1,30 @@
+{
+  "document": {
+    "document_type": "postanowienie",
+    "language": "pl",
+    "court": "Sąd Okręgowy w Bydgoszczy",
+    "division": "II Wydział Cywilny Odwoławczy",
+    "docket_number": "II Cz 500/14",
+    "decision_date": "2014-08-29",
+    "presiding_judge": "Bogumił Goraj",
+    "applicant": "A. T. (uczestnik postępowania)",
+    "subject_matter": "rozpoznanie zażalenia na postanowienie Sądu Rejonowego w Inowrocławiu w przedmiocie oddalenia wniosku o sprostowanie postanowienia o stwierdzeniu nabycia spadku",
+    "participants": {
+      "court_clerk": null,
+      "prosecutor": null
+    },
+    "related_case": {
+      "docket_number": "I Ns 876/09",
+      "authority": "Sąd Rejonowy w Inowrocławiu"
+    },
+    "operative_part": {
+      "decision": "oddalić zażalenie",
+      "legal_basis": [
+        "art. 350 § 1 k.p.c.",
+        "art. 13 § 2 k.p.c.",
+        "art. 385 k.p.c.",
+        "art. 397 § 2 k.p.c."
+      ]
+    }
+  }
+}

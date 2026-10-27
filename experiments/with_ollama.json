@@ -1,0 +1,9 @@
+{
+  "name": "with_ollama",
+  "description": "Jak default, ale model lokalny przez Ollamę (qwen3:4b) zamiast transformers.",
+  "scope": "golden",
+  "limit": null,
+  "configs": ["openrouter_t0", "openrouter_t07", "ollama_qwen3_4b_t0", "ollama_qwen3_4b_t07"],
+  "prompts": ["v1", "v2"],
+  "rules": [false]
+}

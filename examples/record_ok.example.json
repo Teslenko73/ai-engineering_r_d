@@ -1,0 +1,45 @@
+{
+  "file": "doc0.txt",
+  "status": "ok",
+  "error": null,
+  "attempts": 2,
+  "metrics": {
+    "latency_s": 71.124,
+    "prompt_tokens": 1781,
+    "completion_tokens": 420,
+    "cost": 0.0
+  },
+  "meta": {
+    "run_id": "lokalny_t00__v1",
+    "config_name": "lokalny_t00",
+    "provider": "ollama",
+    "model": "ModelLokalny-Y",
+    "prompt_version": "v1",
+    "sampling": {
+      "temperature": 0.0,
+      "top_p": 0.9,
+      "max_tokens": 1024,
+      "top_k": 20
+    },
+    "structured_output": true,
+    "rules": false,
+    "scope": "golden",
+    "timestamp": "2026-10-27T09:48:30"
+  },
+  "rule_overrides": [],
+  "document": {
+    "document_type": "wyrok",
+    "language": "pl",
+    "court": "Sąd Rejonowy w",
+    "division": "III Wydział Karny",
+    "docket_number": "II Kp 100/14",
+    "decision_date": "2013-11-25",
+    "presiding_judge": "SSR Jan Wzorcowy",
+    "applicant": null,
+    "subject_matter": "oddalenie zażalenia na postanowienie o oddaleniu wniosku o sprostowanie postanowienia wraz z uzasadnieniem dotyczącym całego przebiegu postępowania przygotowawczego",
+    "participants": null,
+    "related_case": null,
+    "operative_part": null
+  },
+  "_uwaga": "PRZYKŁAD z symulacji"
+}

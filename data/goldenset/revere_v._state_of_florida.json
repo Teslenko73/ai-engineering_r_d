@@ -1,0 +1,27 @@
+{
+  "document": {
+    "document_type": "opinion",
+    "language": "en",
+    "court": "District Court of Appeal of Florida, Second District",
+    "division": null,
+    "docket_number": "2D2024-2544",
+    "decision_date": "2026-10-14",
+    "presiding_judge": "Lucas, C.J.",
+    "applicant": "Anthony E. Revere (Appellant)",
+    "subject_matter": "appeal pursuant to Fla. R. App. P. 9.141(b)(2) from the Circuit Court for Hillsborough County",
+    "participants": {
+      "court_clerk": null,
+      "prosecutor": null
+    },
+    "related_case": {
+      "docket_number": null,
+      "authority": "Circuit Court for Hillsborough County"
+    },
+    "operative_part": {
+      "decision": "Affirmed",
+      "legal_basis": [
+        "Fla. R. App. P. 9.141(b)(2)"
+      ]
+    }
+  }
+}

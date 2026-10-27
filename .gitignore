@@ -1,27 +1,41 @@
-# Pliki tymczasowe Pythona
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+# Klucze i środowisko: NIGDY do repozytorium (w repo tylko .env.example)
+.env
+.env.*
+!.env.example
+.evn/
+kluc
+.kluc
+*.key
 
 # Środowiska wirtualne
+.venv/
 venv/
 env/
 ENV/
-.venv/
 
-# Pliki środowiskowe (np. z kluczami API)
-.env
-
-# Foldery budowania i dystrybucji
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
 build/
 dist/
-*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
 
-# Jupyter Notebooki
-.ipynb_checkpoints/
-
-# Konfiguracje IDE
-.vscode/
+# IDE i system
 .idea/
+.vscode/
+.DS_Store
+
+# Wyniki przebiegów są lokalne (dużo plików). Do repo trafiają tylko tabele zbiorcze i logi eksperymentów
+results/*
+!results/.gitkeep
+!results/comparison.md
+!results/comparison.csv
+!results/_experiment_*
+
+# Pobrane modele lokalne (cache Hugging Face)
+*.safetensors
+*.gguf
+*.log

@@ -1,0 +1,9 @@
+{
+  "name": "rules_ablation",
+  "description": "Czy reguły (regex) dla sygnatury i daty poprawiają wynik? Ten sam model, z regułami i bez.",
+  "scope": "golden",
+  "limit": null,
+  "configs": ["openrouter_t0"],
+  "prompts": ["v2"],
+  "rules": [false, true]
+}

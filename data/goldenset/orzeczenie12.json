@@ -1,0 +1,27 @@
+{
+  "document": {
+    "document_type": "wyrok odwoławczy",
+    "language": "pl",
+    "court": "Sąd Okręgowy w Częstochowie",
+    "division": "VII Wydział Karny Odwoławczy",
+    "docket_number": "VII Ka 293/19",
+    "decision_date": "2019-04-25",
+    "presiding_judge": "Adam Synakiewicz",
+    "applicant": "prokurator oraz oskarżony",
+    "subject_matter": "rozpoznanie apelacji prokuratora i oskarżonego od wyroku Sądu Rejonowego w Zawierciu w przedmiocie przestępstwa alimentacyjnego z art. 209 § 1a k.k.",
+    "participants": {
+      "court_clerk": "Aleksandra Błachowicz - Dróżdż",
+      "prosecutor": "Iwona Wałek"
+    },
+    "related_case": {
+      "docket_number": "II K 1278/18",
+      "authority": "Sąd Rejonowy w Zawierciu"
+    },
+    "operative_part": {
+      "decision": "utrzymuje w mocy zaskarżony wyrok oraz zwalnia oskarżonego w całości od obowiązku uiszczenia kosztów postępowania odwoławczego",
+      "legal_basis": [
+        "art. 209 § 1a k.k."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "document": {
+    "document_type": "wyrok odwoławczy",
+    "language": "pl",
+    "court": "Sąd Apelacyjny w Warszawie",
+    "division": "II Wydział Karny",
+    "docket_number": "II AKa 252/14",
+    "decision_date": "2014-10-27",
+    "presiding_judge": "Adam Wrzosek",
+    "applicant": "obrońca oskarżonego",
+    "subject_matter": "rozpoznanie apelacji obrońcy od wyroku Sądu Okręgowego w Warszawie w przedmiocie m.in. nielegalnego posiadania broni, podżegania do zabójstwa oraz podżegania do uprowadzenia w ramach porachunków pomiędzy grupami przestępczymi",
+    "participants": {
+      "court_clerk": "Kazimiera Zbysińska",
+      "prosecutor": "Marek Deczkowski"
+    },
+    "related_case": {
+      "docket_number": "XVIII K 350/12",
+      "authority": "Sąd Okręgowy w Warszawie"
+    },
+    "operative_part": {
+      "decision": "zmienić zaskarżony wyrok m.in. poprzez uchylenie orzeczenia o karze łącznej, przekwalifikowanie czynu z podżegania do zabójstwa na podżeganie do uprowadzenia oraz wymierzenie nowej kary łącznej 9 lat pozbawienia wolności, a w pozostałej części utrzymanie wyroku w mocy",
+      "legal_basis": [
+        "art. 18 § 2 k.k.",
+        "art. 189 § 1 k.k.",
+        "art. 19 § 1 k.k.",
+        "art. 85 k.k.",
+        "art. 86 § 1 k.k.",
+        "art. 63 § 1 k.k.",
+        "art. 624 § 1 k.p.k."
+      ]
+    }
+  }
+}

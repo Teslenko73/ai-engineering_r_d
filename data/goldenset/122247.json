@@ -1,28 +1,27 @@
 {
   "document": {
     "document_type": "opinion",
-    "jurisdiction": "US_federal",
+    "language": "en",
     "court": "Supreme Court of the United States",
     "division": null,
     "docket_number": "01-704",
     "decision_date": "2002-12-10",
-    "hearing_date": "2002-10-16",
-    "language": "en",
-    "formula": null,
-    "panel": {
-      "presiding": "Thomas, J."
+    "presiding_judge": "Thomas, J.",
+    "applicant": "Thomas Lamar Bean",
+    "subject_matter": "whether a federal district court has authority under 18 U.S.C. § 925(c) to grant relief from firearms disabilities when ATF lacks appropriations to act on applications",
+    "participants": {
+      "court_clerk": null,
+      "prosecutor": null
     },
-    "court_clerk": null,
-    "prosecutor_at_hearing": "Deputy Solicitor General Kneedler",
-    "defendant": "Thomas Lamar Bean",
-    "charge": "18 U.S.C. § 922(g)(1) (felon-in-possession)",
-    "proceeding_type": "certiorari / judicial review",
-    "appellant": "Thomas Lamar Bean (Respondent)",
-    "appealed_judgment": {
-      "court": "United States Court of Appeals for the Fifth Circuit",
-      "date": "2001",
-      "docket_number": "253 F.3d 234"
+    "related_case": {
+      "docket_number": "253 F. 3d 234",
+      "authority": "United States Court of Appeals for the Fifth Circuit"
     },
-    "final_basis": "18 U.S.C. § 925(c)"
+    "operative_part": {
+      "decision": "reverse the judgment of the Court of Appeals",
+      "legal_basis": [
+        "18 U.S.C. § 925(c)"
+      ]
+    }
   }
 }

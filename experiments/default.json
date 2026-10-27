@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "description": "Model zdalny (2 temperatury) i lokalny (2 temperatury) x prompty v1 i v2, na golden secie.",
+  "scope": "golden",
+  "limit": null,
+  "configs": ["openrouter_t0", "openrouter_t07", "local_qwen_nothink_greedy", "local_qwen_nothink_t07"],
+  "prompts": ["v1", "v2"],
+  "rules": [false]
+}

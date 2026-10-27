@@ -1,0 +1,29 @@
+{
+  "document": {
+    "document_type": "wyrok odwoławczy",
+    "language": "pl",
+    "court": "Sąd Apelacyjny w Poznaniu",
+    "division": "Wydział I Cywilny",
+    "docket_number": "I ACa 666/16",
+    "decision_date": "2016-07-07",
+    "presiding_judge": "Bogdan Wysocki",
+    "applicant": "Fundacja Praw Człowieka i Ochrony Konsumentów im. R. K. działająca na rzecz D. K.",
+    "subject_matter": "rozpoznanie apelacji powódki od wyroku Sądu Okręgowego w Zielonej Górze w przedmiocie roszczenia o zapłatę oraz legitymacji procesowej czynnej organizacji pozarządowej w sprawach konsumenckich",
+    "participants": {
+      "court_clerk": "Katarzyna Kaczmarek",
+      "prosecutor": null
+    },
+    "related_case": {
+      "docket_number": "IC 321/14",
+      "authority": "Sąd Okręgowy w Zielonej Górze"
+    },
+    "operative_part": {
+      "decision": "oddalenie apelacji oraz zasądzenie od powódki na rzecz pozwanego kosztów postępowania apelacyjnego i zażaleniowego",
+      "legal_basis": [
+        "art. 385 k.p.c.",
+        "art. 98 § 1 i 3 k.p.c.",
+        "art. 99 k.p.c."
+      ]
+    }
+  }
+}
